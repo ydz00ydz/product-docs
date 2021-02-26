@@ -3,7 +3,8 @@
         "id": "",
         "name": "ComponentsIntroduction.md",
         "localizedName": "介绍",
-        "labels":"测试，编辑"
+        "uuid": "9f790d12-315d-4aa2-b69f-7ed0d02997a5",
+        "labels": "介绍"
     },
     {
         "id": null,
@@ -44,6 +45,26 @@
         "id": null,
         "name": "CodeExecuter",
         "localizedName": "代码工具"
+    },
+    {
+        "id": null,
+        "name": "Triggers",
+        "localizedName": "触发器"
+    },
+    {
+        "id": null,
+        "name": "AIHub",
+        "localizedName": "AI Hub"
+    },
+    {
+        "id": null,
+        "name": "PhoneAutomation",
+        "localizedName": "手机自动化"
+    },
+    {
+        "id": null,
+        "name": "Console",
+        "localizedName": "控制台"
     },
     {
         "id": null,

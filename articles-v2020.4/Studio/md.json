@@ -1,59 +1,34 @@
 [
-   {
-     "name":"Introduction",
-     "localizedName":"入门"
-   },
-   {
-    "name":"HarewareAndSoftwareRequirements.md",
-    "localizedName":"硬件和软件要求"
-   },
-   {
-     "name":"Settings",
-     "localizedName":"设置"
-   }, 
-   {
-     "name":"WorkingProcess.md",
-     "localizedName":"工作过程"
-   }, 
-   {
-    "name":"AutomationProjects",
-    "localizedName":"自动化项目"
-   },
-   {
-    "name":"Debugging.md",
-    "localizedName":"调试"
-   },
-   {
-     "name":"TypeOfWorkflow",
-     "localizedName":"流程类型"
-   }, 
-   {
-     "name":"Market.md",
-     "localizedName":"云扩市场"
-   },
-   {
-     "name":"Variables",
-     "localizedName":"变量"
-   }, 
-   {
-     "name":"Arguments",
-     "localizedName":"参数"
-   }, 
-   {
-    "name":"ImportNamespaces.md",
-    "localizedName":"导入命名空间"
-  },
-   {
-     "name":"Recording",
-     "localizedName":"智能录制"
-   },
-   {
-     "name":"Extensions",
-     "localizedName":"扩展"
-   },
-   {
-    "name":"FAQ.md",
-    "localizedName":"常见问题"
-  }
+    {
+        "name": "Introduction",
+        "localizedName": "产品介绍"
+    },
+    {
+        "name": "quickStart",
+        "localizedName": "快速开始"
+    },
+    {
+        "name": "process",
+        "localizedName": "项目流程"
+    },
+    {
+        "name": "VersionControl.md",
+        "localizedName": "版本控制",
+        "uuid": "3b7e4427-2af2-48bf-9c06-3f5d4c412eb3",
+        "labels": "版本控制"
+    },
+    {
+        "name": "Extensions",
+        "localizedName": "扩展"
+    },
+    {
+        "name": "market",
+        "localizedName": "云扩市场"
+    },
+    {
+        "name": "FAQ.md",
+        "localizedName": "常见问题",
+        "uuid": "edf49939-4f26-4c60-9fcc-c45da6eba123",
+        "labels": "FAQ, 常见问题"
+    }
 ]
-   
