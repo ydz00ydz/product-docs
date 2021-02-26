@@ -1,0 +1,18 @@
+{
+	"title" : "云扩RPA产品文档",
+	"theme-default": {
+		"showLevel": true
+	},
+	"language": "zh-hans",
+	"plugins": ["yahei"],
+	"pluginsConfig":{
+		"fontSettings":{
+			"family":"msyh",
+			"size":2
+		}
+	},
+	"pdf":{
+		"pageNumbers":true,
+		"paperSize":"a4"
+	}
+}
